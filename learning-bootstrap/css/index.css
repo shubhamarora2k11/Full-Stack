@@ -1,0 +1,84 @@
+.main{
+    padding: 2em;
+}
+
+.navbar a img {
+    height: 5em;
+    width: 4em;
+    margin: 0;
+}
+
+.navbar-brand {
+    font-family: 'Rock Salt', cursive;
+    font-size: 1em;
+}
+
+li {
+    margin-left: 1em;
+}
+
+#ml1 {
+    margin-left: 1em;
+
+    margin-right: 1em;
+}
+
+#ml5 {
+    margin-left: 5em;
+}
+.card{
+    margin: 0%;
+}
+.card:hover{
+    box-shadow: 0 0 50px grey;
+
+}
+.featured:hover{
+    box-shadow: 0 0 50px grey;
+
+}
+#featuredimg{
+    height: 20em;
+    width: 50em;
+}
+.mainsection{
+    margin: 3%;
+    font-family: 'Cabin Sketch', cursive;
+}
+.aboutus{
+    margin: 4%;
+}
+
+#slideImage {
+    height: 30em;
+}
+
+#foo {
+    height: 7em;
+    background-color: #f8f9fa !important;
+    font-family: 'PT Mono', monospace;
+    font-size: 1em;
+    margin-top: 4%;
+}
+
+
+h4 {
+    margin-top: 0.2em;
+}
+
+.container-fluid {
+    background-color: #f8f9fa !important;
+
+}
+
+.fa {
+    color: black;
+    font-size: 24px;
+    margin: 0.5em;
+}
+
+#sliderText{
+    margin-top:-5.5em;
+    background-color: rgb(0,0,0,0.5) ;
+    width:100%;
+}
